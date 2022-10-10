@@ -1,0 +1,14 @@
+Todo
+
+1. user input => textbox => query search
+need to set a state for that search
+2. getch image from API
+3. allow for scrolling functionality
+4. each child in a list should have a unique key
+
+
+search for something and get results:
+
+1. create a state for search, add an empty string
+2. set the value of the input to the value of what is prior state
+3. add an onchange event, 
